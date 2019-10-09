@@ -7,10 +7,8 @@
   ],
   "components": [
     {
-      "type": "small",
-      "title": "Learn about cats",
-      "url": "https://wikipedia.org/wiki/Cat",
-      "image": "assets/bookend_cats.jpg"
+      "type": "heading",
+      "text": "More to read"
     },
     {
       "type": "small",
