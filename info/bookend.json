@@ -21,13 +21,6 @@
       "category": "Long Sleeve"
     },
     {
-      "type": "landscape",
-      "title": "Learn about border collies",
-      "url": "https://wikipedia.org/wiki/Border_Collie",
-      "image": "assets/bookend_dogs.jpg",
-      "category": "Dogs"
-    },
-    {
       "type": "cta-link",
       "links": [
         {
