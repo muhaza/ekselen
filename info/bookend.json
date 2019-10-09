@@ -28,6 +28,15 @@
           "url": "https://shopee.com.my/search?category=17&keyword=expertees&subcategory=255"
         }
       ]
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Menu Utama",
+          "url": "https://muhaza.github.io/ekselen"
+        }
+      ]
     }
   ]
 }
