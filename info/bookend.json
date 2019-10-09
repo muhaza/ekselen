@@ -26,13 +26,6 @@
       "category": "Dogs"
     },
     {
-      "type": "portrait",
-      "title": "Learn about macaws",
-      "url": "https://wikipedia.org/wiki/Macaw",
-      "image": "assets/bookend_birds.jpg",
-      "category": "birds"
-    },
-    {
       "type": "cta-link",
       "links": [
         {
