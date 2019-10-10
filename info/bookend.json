@@ -18,8 +18,8 @@
     {
       "type": "landscape",
       "title": "Bantal Ompuk Kompom Mimpi",
-      "url": "info/child/bantal.html",
-      "image": "../assets/bantal-biru.jpg",
+      "url": "child/bantal.html",
+      "image": "./assets/bantal-biru.jpg",
       "category": "Pillow"
     },
     {
