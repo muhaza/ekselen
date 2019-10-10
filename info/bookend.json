@@ -7,10 +7,19 @@
   ],
   "components": [
     {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Layari Laman Shopee Expertees",
+          "url": "https://shopee.com.my/search?category=17&keyword=expertees&subcategory=255"
+        }
+      ]
+    },
+    {
       "type": "landscape",
       "title": "Bantal Ompuk Kompom Mimpi",
-      "url": "child/bantal.html",
-      "image": "assets/bantal-biru.jpg",
+      "url": "bantal.html",
+      "image": "../assets/bantal-biru.jpg",
       "category": "Pillow"
     },
     {
@@ -27,15 +36,7 @@
       "image": "https://cf.shopee.com.my/file/dcdb3877113af0f73a0f6661593a50f2",
       "category": "Long Sleeve"
     },
-    {
-      "type": "cta-link",
-      "links": [
-        {
-          "text": "Layari Laman Shopee Expertees",
-          "url": "https://shopee.com.my/search?category=17&keyword=expertees&subcategory=255"
-        }
-      ]
-    },
+    
     {
       "type": "cta-link",
       "links": [
