@@ -9,8 +9,8 @@
     {
       "type": "landscape",
       "title": "Bantal Ompuk Kompom Mimpi",
-      "url": "./ekselen/info/bantal.html",
-      "image": "./assets/bantal-biru.jpg",
+      "url": "bantal.html",
+      "image": "assets/bantal-biru.jpg",
       "category": "Pillow"
     },
     {
